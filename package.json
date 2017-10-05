@@ -4,8 +4,11 @@
   "description": "Finances for foodservice employees",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "watch": "webpack -w",
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "watch": "webpack -w --config webpack.prod.js",
+    "db": "mongod --dbpath data/db",
+    "serve": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,15 +27,27 @@
   },
   "homepage": "https://github.com/jonpowers/foodservice-finance#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "file-loader": "^1.1.5",
+    "mongodb": "^2.2.31",
+    "monk": "^6.0.4",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-loader": "^7.1.1",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "cors": "^2.8.4",
+    "html-webpack-plugin": "^2.30.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "webpack": "^3.2.0"
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-merge": "^4.1.0"
   }
 }
