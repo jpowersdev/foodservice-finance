@@ -29,12 +29,32 @@ function readFile (filename) {
     })
     .on('end', function () {
       var rCount = register.length
+      var temp = []
+
+      for (r of register) {
+          temp.push({
+            Account: r.Account,
+            Flag: r.Flag,
+            Date: r.Date,
+            Payee: r.Payee,
+            GroupAndCategory: r.GroupAndCategory,
+            Group: r.Group,
+            Category: r.Category,
+            Memo: r.Memo,
+            Outflow: parseFloat(r.Outflow.substring(1)),
+            Inflow: parseFloat(r.Inflow.substring(1)),
+            Cleared: r.Cleared
+          })
+      }
+
+      console.log(temp);
+
       getCount()
         .then((count) => {
           console.log("Register Length: " + rCount)
           console.log("Database Length: " + count)
           if (rCount > count) {
-            insert(register.slice(0, (rCount - count)))
+            insert(temp.slice(0, (rCount - count)))
             .then((res) => {
               console.log(res)
             })

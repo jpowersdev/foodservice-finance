@@ -10,6 +10,7 @@ import {
   TableRow,
   TableRowColumn,
 } from 'material-ui/Table';
+import FlatButton from 'material-ui/FlatButton'
 
 class Register extends React.Component {
 
@@ -17,10 +18,12 @@ class Register extends React.Component {
     super(props);
     this.state = {
       register: null,
-      count: null
+      count: null,
+      sorted: null
     }
     this.geTableRowegister = this.getRegister.bind(this);
     this.getCount = this.getCount.bind(this);
+    this.sortBy = this.sortBy.bind(this);
   }
 
   componentDidMount() {
@@ -53,6 +56,271 @@ class Register extends React.Component {
     });
   }
 
+  // rewrite to just be one sorting method based on value, using array notation
+  sortBy (e) {
+    var value = e.currentTarget.children[0].children[1].innerHTML
+    // console.log(value)
+    var temp = this.state.register;
+    switch (value) {
+      case 'Account':
+        if (this.state.sorted === 'Account') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Account > next.Account) {
+                return -1;
+              } else if (obj.Account < next.Account) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Account > next.Account) {
+                return 1;
+              } else if (obj.Account < next.Account) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Account' });
+        }
+        break;
+      case 'Flag':
+        if (this.state.sorted === 'Flag') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Flag > next.Flag) {
+                return -1;
+              } else if (obj.Flag < next.Flag) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Flag > next.Flag) {
+                return 1;
+              } else if (obj.Flag < next.Flag) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Flag' });
+        }
+        break;
+      case 'Date':
+        if (this.state.sorted === 'Date') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Date > next.Date) {
+                return -1;
+              } else if (obj.Date < next.Date) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Date > next.Date) {
+                return 1;
+              } else if (obj.Date < next.Date) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Date' });
+        }
+        break;
+      case 'Payee':
+        if (this.state.sorted === 'Payee') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Payee > next.Payee) {
+                return -1;
+              } else if (obj.Payee < next.Payee) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Payee > next.Payee) {
+                return 1;
+              } else if (obj.Payee < next.Payee) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Payee' });
+        }
+        break;
+      case 'Group':
+        if (this.state.sorted === 'Group') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Group > next.Group) {
+                return -1;
+              } else if (obj.Group < next.Group) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Group > next.Group) {
+                return 1;
+              } else if (obj.Group < next.Group) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Group' });
+        }
+        break;
+      case 'Category':
+        if (this.state.sorted === 'Category') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Category > next.Category) {
+                return -1;
+              } else if (obj.Category < next.Category) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Category > next.Category) {
+                return 1;
+              } else if (obj.Category < next.Category) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Category' });
+        }
+        break;
+      case 'Memo':
+        if (this.state.sorted === 'Memo') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Memo > next.Memo) {
+                return -1;
+              } else if (obj.Memo < next.Memo) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Memo > next.Memo) {
+                return 1;
+              } else if (obj.Memo < next.Memo) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Memo' });
+        }
+        break;
+
+        /*
+          Sorting doesn't work, because the dollar values are strings
+         */
+      case 'Outflow':
+        if (this.state.sorted === 'Outflow') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Outflow > next.Outflow) {
+                return -1;
+              } else if (obj.Outflow < next.Outflow) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Outflow > next.Outflow) {
+                return 1;
+              } else if (obj.Outflow < next.Outflow) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Outflow' });
+        }
+        break;
+      case 'Inflow':
+        if (this.state.sorted === 'Inflow') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Inflow > next.Inflow) {
+                return -1;
+              } else if (obj.Inflow < next.Inflow) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Inflow > next.Inflow) {
+                return 1;
+              } else if (obj.Inflow < next.Inflow) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Inflow' });
+        }
+        break;
+      case 'Cleared':
+        if (this.state.sorted === 'Cleared') {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Cleared > next.Cleared) {
+                return -1;
+              } else if (obj.Cleared < next.Cleared) {
+                return 1;
+              } else {
+                return 0;
+              }
+            }), sorted: null });
+        } else {
+          this.setState({
+            register: temp.sort((obj, next) => {
+              if (obj.Cleared > next.Cleared) {
+                return 1;
+              } else if (obj.Cleared < next.Cleared) {
+                return -1;
+              } else {
+                return 0;
+              }
+            }), sorted: 'Cleared' });
+        }
+        break;
+      default:
+        break;
+    }
+  }
+
   getRegister () {
     var that = this;
     fetch('/api/register').then(function(response) {
@@ -66,35 +334,58 @@ class Register extends React.Component {
 
   render () {
     const styles = {
+      body: {
+        width: 'auto',
+        overflow: 'visible'
+      },
       account: {
-        textAlign: 'left'
+        textAlign: 'left',
+        width: '100px'
       },
       flag: {
-        textAlign: 'center'
+        textAlign: 'center',
+        width: '40px'
       },
       date: {
-        textAlign: 'center'
+        textAlign: 'center',
+        width: '80px'
       },
       payee: {
-        textAlign: 'left'
+        textAlign: 'left',
+        width: '200px'
       },
       group: {
-        textAlign: 'left'
+        textAlign: 'left',
+        width: '100px'
       },
       category: {
-        textAlign: 'left'
+        textAlign: 'left',
+        width: '100px'
       },
       memo: {
-        textAlign: 'left'
+        textAlign: 'left',
+        width: '200px'
       },
       outflow: {
-        textAlign: 'right'
+        textAlign: 'right',
+        width: '60px'
       },
       inflow: {
-        textAlign: 'right'
+        textAlign: 'right',
+        width: '60px'
       },
       cleared: {
-        textAlign: 'center'
+        textAlign: 'center',
+        width: '80px'
+      },
+      container: {
+        margin: '0 auto',
+        paddingLeft: '2vw',
+        paddingRight: '2vw',
+        position: 'absolute',
+        left: '15vw',
+        top: '30px',
+        right: '8px'
       }
     }
     if (this.state.register != null) {
@@ -110,36 +401,58 @@ class Register extends React.Component {
             <TableRowColumn style={styles.group}>{props.Group}</TableRowColumn>
             <TableRowColumn style={styles.category}>{props.Category}</TableRowColumn>
             <TableRowColumn style={styles.memo}>{props.Memo}</TableRowColumn>
-            <TableRowColumn style={styles.outflow}>{props.Outflow}</TableRowColumn>
-            <TableRowColumn style={styles.inflow}>{props.Inflow}</TableRowColumn>
+            <TableRowColumn style={styles.outflow}>
+              {props.Outflow.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}
+            </TableRowColumn>
+            <TableRowColumn style={styles.inflow}>
+              {props.Inflow.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}
+            </TableRowColumn>
             <TableRowColumn style={styles.cleared}>{props.Cleared}</TableRowColumn>
           </TableRow>
         )
 
       return (
-        <div id="container" style={{ margin: '0 auto', paddingLeft: '2vw', paddingRight: '2vw',
-          position: 'absolute', left: '200px', top: '30px', right: '8px' }}>
+        <div id="container" style={styles.container}>
           <div id='register' style={{ height: '75vh', overflow: 'auto'}}>
             <Table fixedHeader='true'
-                   stripedRows='false'
                    showRowHover='true'
                    selectable='true'
                    multiSelectable='true'
                    deselectOnClickaway='true'
-                   showCheckboxes='true'
-                   height='100vh'>
+                   height='100vh'
+                   bodyStyle={styles.body}>
               <TableHeader>
                 <TableRow style={{fontWeight: 'bold', textAlign: 'center'}}>
-                  <TableRowColumn>Account</TableRowColumn>
-                  <TableRowColumn>Flag</TableRowColumn>
-                  <TableRowColumn>Date</TableRowColumn>
-                  <TableRowColumn>Payee</TableRowColumn>
-                  <TableRowColumn>Group</TableRowColumn>
-                  <TableRowColumn>Category</TableRowColumn>
-                  <TableRowColumn>Memo</TableRowColumn>
-                  <TableRowColumn>Outflow</TableRowColumn>
-                  <TableRowColumn>Inflow</TableRowColumn>
-                  <TableRowColumn>Cleared</TableRowColumn>
+                  <TableRowColumn style={styles.account}>
+                    <FlatButton label="Account" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.flag}>
+                    <FlatButton label="Flag" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.date}>
+                    <FlatButton label="Date" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.payee}>
+                    <FlatButton label="Payee" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.group}>
+                    <FlatButton label="Group" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.category}>
+                    <FlatButton label="Category" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.memo}>
+                    <FlatButton label="Memo" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.outflow}>
+                    <FlatButton label="Outflow" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.inflow}>
+                    <FlatButton label="Inflow" onClick={this.sortBy}/>
+                  </TableRowColumn>
+                  <TableRowColumn style={styles.cleared}>
+                    <FlatButton label="Cleared" onClick={this.sortBy}/>
+                  </TableRowColumn>
                 </TableRow>
               </TableHeader>
               <TableBody>
@@ -147,18 +460,11 @@ class Register extends React.Component {
               </TableBody>
             </Table>
           </div>
-
-          {/* <div style={{ display: 'block', textAlign: 'center' }}>
-            <RaisedButton label="Count!"
-              style={{ textAlign: 'center', margin: '0 auto' }}
-              onClick={this.getCount}/>
-            <h3>Count: {this.state.count ? this.state.count : 0}</h3>
-          </div> */}
         </div>
       )
     }
     return (
-      <h1>Nothing loaded yet...</h1>
+      <h1 style={{textAlign: 'center'}}>Nothing loaded yet...</h1>
     )
   }
 }

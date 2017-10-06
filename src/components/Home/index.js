@@ -8,7 +8,7 @@ import Navigation from '../Navigation'
 
 const styles = {
   container: {
-    width: '200px',
+    width: '15vw',
     backgroundColor: '#E0E0E0',
     height: '88vh',
     position: 'fixed',
@@ -17,14 +17,15 @@ const styles = {
   nav: {
 
   },
-  summary: {
-
+  list: {
+    listStyleType: 'none'
   },
-  header: {
-
+  active: {
+    color: '#008cff',
+    background: '0 0',
   },
   link: {
-
+    textDecoration: 'none'
   },
   home: {
     width: '100vw',
@@ -33,13 +34,17 @@ const styles = {
     overflow: 'hidden'
   },
   bottom: {
-    height: '15vh',
+    height: '10vh',
+    margin: '0 auto',
     position: 'absolute',
-    left: '200px',
-    right: '8px',
+    left: '15vw',
+    right: '42px',
     bottom: '8px',
-    top: '75vh',
-    textAlign: 'center'
+    top: '80vh',
+    width: '80vw',
+    textAlign: 'center',
+    paddingLeft: '2vw',
+    paddingRight: '2vw'
   },
   button: {
     display: 'block',
@@ -54,9 +59,9 @@ class Sidebar extends React.Component {
     return (
       <div id="sidebar" style={styles.container}>
         <nav role="navigation" style={{}}>
-          <ul className="summary">
-            <li className="header">One</li>
-            <li className="chapter">Two</li>
+          <ul style={styles.list}>
+            <li style={styles.link, styles.active}>One</li>
+            <li style={styles.link}>Two</li>
           </ul>
         </nav>
       </div>
