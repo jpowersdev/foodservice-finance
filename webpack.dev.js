@@ -9,6 +9,7 @@ module.exports = merge(common, {
   devServer: {
     contentBase: './dist'
   },
+  target: 'web',
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({

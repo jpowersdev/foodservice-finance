@@ -1,16 +1,12 @@
 const express = require('express');
 const path = require('path')
 const app = express();
+var fs = require('fs')
 var cors = require('cors')
-
 var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-
-var mongo = require('mongodb');
-var monk = require('monk');
-var db = monk('localhost:27017');
 
 const PORT = process.env.PORT || 8080;
 
@@ -22,17 +18,18 @@ app.use('/api', apiRoutes)
 
 if (app.get('env') === 'development') {
   app.use(logger('dev'));
+} else {
+  // create a write stream (in append mode)
+  var accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), {flags: 'a'})
+
+  // setup the logger
+  app.use(logger('combined', {stream: accessLogStream}))
 }
-app.use(cors())
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'dist')));
-
-app.use(function(req,res,next){
-    req.db = db;
-    next();
-});
 
 // development error handler
 // will print stacktrace

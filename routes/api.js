@@ -1,26 +1,19 @@
 var express = require('express');
 var router = express.Router();
+const { db, sendCount, sendRegister, insert } = require('../db')
 
-// GET users listing. */
-router.get('/', function(req, res) {
-  res.send('respond with a resource');
+router.get('/register/count', function(req, res) {
+  console.log("GET /register/count")
+  sendCount(req, res)
 });
 
-/* GET Userlist page. */
 router.get('/register', function(req, res) {
-    var db = req.db;
-    var collection = db.get('register');
-    collection.find({},{},function(e,docs){
-      if (e) {
-        res.error(e);
-      } else {
-        res.send(docs);
-      }
-    });
+  console.log("GET /register")
+  sendRegister(req, res)
 });
 
 router.post('/register', (req, res) => {
-  var db = req.db;
+  console.log('/POST /register')
   var collection = db.get('register');
   collection.insert(req.body)
     .catch((err) => {res.error(err);})

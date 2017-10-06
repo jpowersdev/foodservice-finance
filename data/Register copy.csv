@@ -1,0 +1,387 @@
+Account,Flag,Date,Payee,Category Group/Category,Category Group,Category,Memo,Outflow,Inflow,Cleared
+Melissa Cash,,9/27/17,Lost,Inflow: To be Budgeted,Inflow,To be Budgeted,,$14.00 ,$0.00 ,Cleared
+Shared Cash,,9/26/17,Transfer : Jon Simple,,,,,$630.00 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Transfer : Shared Simple,,,,,$600.00 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Xfinity,Immediate Obligations: Internet,Immediate Obligations,Internet,,$147.72 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Planet Fitness,Quality of Life Goals: Fitness,Quality of Life Goals,Fitness,,$23.57 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$12.35 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,9/26/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$5.32 ,$0.00 ,Cleared
+Jon Simple,,9/26/17,Stash,Quality of Life Goals: Investing,Quality of Life Goals,Investing,,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,9/26/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$75.00 ,Cleared
+Jon Cash,,9/26/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$80.00 ,Cleared
+Shared Simple,,9/26/17,Transfer : Jon Simple,,,,,$0.00 ,$600.00 ,Cleared
+Jon Simple,,9/26/17,Transfer : Shared Cash,,,,,$0.00 ,$630.00 ,Cleared
+Jon Cash,,9/25/17,Transfer : Shared Cash,,,,,$330.00 ,$0.00 ,Cleared
+Melissa Cash,,9/25/17,Transfer : Shared Cash,,,,,$300.00 ,$0.00 ,Cleared
+Shared Simple,,9/25/17,Transfer : Jon Simple,,,,,$50.00 ,$0.00 ,Cleared
+Melissa Simple,,9/25/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$20.36 ,$0.00 ,Cleared
+Melissa Cash,,9/25/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,Bagel and coffee,$11.00 ,$0.00 ,Cleared
+Jon Simple,,9/25/17,Pepboys Store,True Expenses: Auto Expenses,True Expenses,Auto Expenses,,$10.14 ,$0.00 ,Cleared
+Shared Simple,,9/25/17,Transfer : Jon Simple,,,,,$10.14 ,$0.00 ,Cleared
+Jon Simple,,9/25/17,Taco Bell,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.13 ,$0.00 ,Cleared
+Shared Simple,,9/25/17,Transfer : Jon Simple,,,,,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,9/25/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.29 ,$0.00 ,Cleared
+Jon Simple,,9/25/17,Walmart,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$9.27 ,$0.00 ,Cleared
+Jon Simple,,9/25/17,Arby’s,Just for Fun: Dining Out,Just for Fun,Dining Out,,$8.43 ,$0.00 ,Cleared
+Jon Simple,,9/25/17,Transfer : Shared Simple,,,,,$0.00 ,$10.00 ,Cleared
+Jon Simple,,9/25/17,Transfer : Shared Simple,,,,,$0.00 ,$10.14 ,Cleared
+Melissa Cash,,9/25/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$47.00 ,Cleared
+Jon Simple,,9/25/17,Transfer : Shared Simple,,,,,$0.00 ,$50.00 ,Cleared
+Jon Cash,,9/25/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$59.00 ,Cleared
+Shared Cash,,9/25/17,Transfer : Melissa Cash,,,,,$0.00 ,$300.00 ,Cleared
+Shared Cash,,9/25/17,Transfer : Jon Cash,,,,,$0.00 ,$330.00 ,Cleared
+Shared Simple,,9/24/17,Transfer : Jon Simple,,,,Transfer for Xfinity,$147.72 ,$0.00 ,Cleared
+Jon Simple,,9/24/17,Walmart,Immediate Obligations: Groceries,Immediate Obligations,Groceries,Water and snacks,$37.35 ,$0.00 ,Cleared
+Melissa Simple,,9/24/17,Lost,Inflow: To be Budgeted,Inflow,To be Budgeted,,$10.00 ,$0.00 ,Reconciled
+Shared Simple,,9/24/17,Transfer : Jon Simple,,,,,$10.00 ,$0.00 ,Cleared
+Shared Simple,,9/24/17,Transfer : Jon Simple,,,,,$10.00 ,$0.00 ,Cleared
+Jon Simple,,9/24/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$10.00 ,$0.00 ,Cleared
+Jon Simple,,9/24/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.29 ,$0.00 ,Cleared
+Jon Simple,,9/24/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$8.09 ,$0.00 ,Cleared
+Melissa Simple,,9/24/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$7.14 ,$0.00 ,Cleared
+Shared Simple,,9/24/17,Transfer : Jon Simple,,,,,$7.00 ,$0.00 ,Cleared
+Melissa Simple,,9/24/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$2.66 ,$0.00 ,Cleared
+Jon Simple,,9/24/17,Transfer : Shared Simple,,,,,$0.00 ,$7.00 ,Cleared
+Jon Simple,,9/24/17,Transfer : Shared Simple,,,,,$0.00 ,$10.00 ,Cleared
+Jon Simple,,9/24/17,Transfer : Shared Simple,,,,,$0.00 ,$10.00 ,Cleared
+Jon Cash,,9/24/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$85.00 ,Cleared
+Jon Simple,,9/24/17,Transfer : Shared Simple,,,,Transfer for Xfinity,$0.00 ,$147.72 ,Cleared
+Melissa Simple,,9/23/17,Transfer : Shared Simple,,,,,$750.00 ,$0.00 ,Reconciled
+Jon Simple,,9/23/17,Transfer : Shared Simple,,,,,$100.00 ,$0.00 ,Cleared
+Jon Simple,,9/23/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$12.90 ,$0.00 ,Cleared
+Melissa Simple,,9/23/17,Transfer : Jon Simple,,,,,$8.00 ,$0.00 ,Reconciled
+Jon Simple,,9/23/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,Pre-Work coffee,$6.39 ,$0.00 ,Cleared
+Jon Simple,,9/23/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,Pre-work snacks (bagels),$5.43 ,$0.00 ,Cleared
+Jon Simple,,9/23/17,Transfer : Melissa Simple,,,,,$0.00 ,$8.00 ,Cleared
+Melissa Cash,,9/23/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$91.00 ,Cleared
+Shared Simple,,9/23/17,Transfer : Jon Simple,,,,,$0.00 ,$100.00 ,Cleared
+Jon Cash,,9/23/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$108.00 ,Cleared
+Shared Simple,,9/23/17,Transfer : Melissa Simple,,,,,$0.00 ,$750.00 ,Cleared
+Shared Cash,,9/22/17,Transfer : Melissa Simple,,,,Money order,$750.00 ,$0.00 ,Cleared
+Jon Cash,,9/22/17,Berkshire Hathaway,True Expenses: Home Expenses,True Expenses,Home Expenses,NTN application fee,$60.00 ,$0.00 ,Cleared
+Jon Simple,,9/22/17,Transfer : Jon Cash,,,,,$60.00 ,$0.00 ,Cleared
+Shared Cash,,9/22/17,Transfer : Shared Simple,,,,Money order,$50.00 ,$0.00 ,Cleared
+Jon Simple,,9/22/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,Snacks,$7.65 ,$0.00 ,Cleared
+Melissa Cash,,9/22/17,Found,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$45.00 ,Cleared
+Shared Simple,,9/22/17,Transfer : Shared Cash,,,,Money order,$0.00 ,$50.00 ,Cleared
+Jon Cash,,9/22/17,Transfer : Jon Simple,,,,,$0.00 ,$60.00 ,Cleared
+Jon Cash,,9/22/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$73.00 ,Cleared
+Melissa Simple,,9/22/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$106.53 ,Reconciled
+Jon Simple,,9/22/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$110.54 ,Cleared
+Melissa Cash,,9/22/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$124.00 ,Cleared
+Melissa Simple,,9/22/17,Transfer : Shared Cash,,,,Money order,$0.00 ,$750.00 ,Reconciled
+Melissa Cash,,9/21/17,Transfer : Shared Cash,,,,,$480.00 ,$0.00 ,Cleared
+Jon Cash,,9/21/17,Transfer : Shared Cash,,,,,$325.00 ,$0.00 ,Cleared
+Melissa Simple,,9/21/17,Walmart,True Expenses: Toiletries ,True Expenses,Toiletries ,,$20.38 ,$0.00 ,Reconciled
+Melissa Cash,,9/21/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload,$20.00 ,$0.00 ,Cleared
+Jon Simple,,9/21/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$9.17 ,$0.00 ,Cleared
+Shared Cash,,9/21/17,Transfer : Jon Cash,,,,,$0.00 ,$325.00 ,Cleared
+Shared Cash,,9/21/17,Transfer : Melissa Cash,,,,,$0.00 ,$480.00 ,Cleared
+Melissa Cash,,9/20/17,Walmart,True Expenses: Home Expenses,True Expenses,Home Expenses,,$42.00 ,$0.00 ,Cleared
+Melissa Simple,,9/20/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$15.00 ,$0.00 ,Reconciled
+Melissa Simple,,9/20/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Shared Cash,,9/20/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$0.00 ,Cleared
+Jon Cash,,9/20/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$53.00 ,Cleared
+Melissa Cash,,9/20/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$56.00 ,Cleared
+Melissa Cash,,9/19/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$33.00 ,$0.00 ,Cleared
+Jon Cash,,9/19/17,Bar,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$25.00 ,$0.00 ,Cleared
+Melissa Cash,,9/19/17,Bar,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$22.00 ,$0.00 ,Cleared
+Melissa Simple,,9/19/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$15.00 ,$0.00 ,Reconciled
+Melissa Simple,,9/19/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Melissa Simple,,9/19/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Jon Simple,,9/19/17,Stash,Quality of Life Goals: Investing,Quality of Life Goals,Investing,,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,9/19/17,Whole Foods,Immediate Obligations: Groceries,Immediate Obligations,Groceries,Turmeric for mom,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,9/19/17,Tolls,Immediate Obligations: Transportation,Immediate Obligations,Transportation,To see mom and dad,$4.00 ,$0.00 ,Cleared
+Jon Simple,,9/19/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$1.98 ,$0.00 ,Cleared
+Melissa Cash,,9/19/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$52.00 ,Cleared
+Jon Cash,,9/18/17,Ihop,Just for Fun: Dining Out,Just for Fun,Dining Out,,$13.00 ,$0.00 ,Cleared
+Melissa Cash,,9/18/17,Ihop,Just for Fun: Dining Out,Just for Fun,Dining Out,,$13.00 ,$0.00 ,Cleared
+Jon Cash,,9/18/17,Walmart,True Expenses: Home Expenses,True Expenses,Home Expenses,Ashtray,$1.00 ,$0.00 ,Cleared
+Melissa Simple,,9/18/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$106.53 ,Reconciled
+Jon Simple,,9/18/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$126.31 ,Cleared
+Melissa Simple,,9/16/17,Sprint Wireless,Immediate Obligations: Cell Phone,Immediate Obligations,Cell Phone,,$164.03 ,$0.00 ,Reconciled
+Jon Simple,,9/16/17,Transfer : Melissa Simple,,,,,$104.00 ,$0.00 ,Cleared
+Melissa Cash,,9/16/17,Transfer : Jon Cash,,,,,$100.00 ,$0.00 ,Cleared
+Melissa Cash,,9/16/17,Select Pizza Grill,Just for Fun: Dining Out,Just for Fun,Dining Out,Food,$7.00 ,$0.00 ,Cleared
+Melissa Cash,,9/16/17,Select Pizza Grill,Inflow: To be Budgeted,Inflow,To be Budgeted,Dinner,$5.00 ,$0.00 ,Cleared
+Jon Cash,,9/16/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$6.00 ,Cleared
+Melissa Cash,,9/16/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$71.00 ,Cleared
+Jon Cash,,9/16/17,Transfer : Melissa Cash,,,,,$0.00 ,$100.00 ,Cleared
+Melissa Simple,,9/16/17,Transfer : Jon Simple,,,,,$0.00 ,$104.00 ,Reconciled
+Melissa Cash,,9/15/17,Walmart,True Expenses: Medical,True Expenses,Medical,For bubs ,$21.00 ,$0.00 ,Cleared
+Melissa Simple,,9/15/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Jon Simple,,9/15/17,Stash,Quality of Life Goals: Investing,Quality of Life Goals,Investing,,$1.00 ,$0.00 ,Cleared
+Melissa Cash,,9/15/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$102.00 ,Cleared
+Jon Cash,,9/14/17,Southampton Spa,Quality of Life Goals: Special Occasions,Quality of Life Goals,Special Occasions,Anniversary,$70.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Southampton Spa,Just for Fun: Dining Out,Just for Fun,Dining Out,Anniversary food,$48.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Lost,True Expenses: Stuff I Forgot to Budget For,True Expenses,Stuff I Forgot to Budget For,,$32.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Pho Le,Just for Fun: Dining Out,Just for Fun,Dining Out,Anniversary dinner,$21.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,"Reload, anniversary food",$20.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Sundae's,Just for Fun: Dining Out,Just for Fun,Dining Out,"Dessert, anniversary ",$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/14/17,Sunoco,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.00 ,$0.00 ,Cleared
+Melissa Cash,,9/14/17,Tolls,Immediate Obligations: Transportation,Immediate Obligations,Transportation,Bridge toll,$5.00 ,$0.00 ,Cleared
+Melissa Simple,,9/14/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$2.12 ,$0.00 ,Reconciled
+Melissa Cash,,9/13/17,Meadows Diner,Just for Fun: Dining Out,Just for Fun,Dining Out,The best diner ever,$34.00 ,$0.00 ,Cleared
+Jon Cash,,9/13/17,Bar,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Two six packs. Noel owes me $8,$16.00 ,$0.00 ,Cleared
+Jon Cash,,9/13/17,Walgreens,True Expenses: Toiletries ,True Expenses,Toiletries ,Deodorant ,$11.00 ,$0.00 ,Cleared
+Jon Cash,,9/13/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Melissa Cash,,9/13/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,9/13/17,Walgreens,True Expenses: Gifts,True Expenses,Gifts,Card,$3.00 ,$0.00 ,Cleared
+Jon Cash,,9/13/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$35.00 ,Cleared
+Melissa Cash,,9/13/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$41.00 ,Cleared
+Melissa Cash,,9/13/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$75.00 ,Cleared
+Jon Cash,,9/12/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$12.00 ,$0.00 ,Cleared
+Melissa Cash,,9/12/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload,$5.00 ,$0.00 ,Cleared
+Jon Simple,,9/12/17,Stash,Quality of Life Goals: Investing,Quality of Life Goals,Investing,,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,9/12/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$17.00 ,Cleared
+Jon Cash,,9/12/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$74.00 ,Cleared
+Melissa Simple,,9/11/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$15.00 ,$0.00 ,Reconciled
+Jon Simple,,9/11/17,Transfer : Melissa Simple,,,,,$10.00 ,$0.00 ,Cleared
+Jon Simple,,9/11/17,Microsoft Store,True Expenses: Subscriptions,True Expenses,Subscriptions,Office 365,$7.47 ,$0.00 ,Cleared
+Jon Cash,,9/11/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,,$3.00 ,$0.00 ,Cleared
+Jon Simple,,9/11/17,Transfer : Melissa Simple,,,,,$1.01 ,$0.00 ,Cleared
+Melissa Simple,,9/11/17,Transfer : Jon Simple,,,,,$0.00 ,$1.01 ,Reconciled
+Melissa Simple,,9/11/17,Transfer : Jon Simple,,,,,$0.00 ,$10.00 ,Reconciled
+Melissa Cash,,9/11/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$70.00 ,Cleared
+Melissa Simple,,9/11/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$71.56 ,Reconciled
+Jon Simple,,9/11/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$75.07 ,Cleared
+Melissa Cash,,9/10/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$16.00 ,$0.00 ,Cleared
+Jon Cash,,9/10/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Cover,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/10/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.00 ,$0.00 ,Cleared
+Jon Cash,,9/10/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$8.00 ,$0.00 ,Cleared
+Jon Cash,,9/10/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$42.00 ,Cleared
+Melissa Cash,,9/10/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$57.00 ,Cleared
+Jon Cash,,9/9/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,7.5 gallons,$20.00 ,$0.00 ,Cleared
+Melissa Cash,,9/9/17,Transfer : Jon Cash,,,,,$20.00 ,$0.00 ,Cleared
+Melissa Simple,,9/9/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$20.00 ,$0.00 ,Reconciled
+Jon Simple,,9/9/17,Amazon Web Services,True Expenses: Subscriptions,True Expenses,Subscriptions,,$19.44 ,$0.00 ,Cleared
+Melissa Simple,,9/9/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload,$10.00 ,$0.00 ,Reconciled
+Jon Simple,,9/9/17,Transfer : Melissa Simple,,,,,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/9/17,Wendy's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.00 ,$0.00 ,Cleared
+Jon Cash,,9/9/17,Person,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Dutch,$5.00 ,$0.00 ,Cleared
+Jon Cash,,9/9/17,Gas Station,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Actual Dutch,$1.00 ,$0.00 ,Cleared
+Melissa Simple,,9/9/17,Transfer : Jon Simple,,,,,$0.00 ,$10.00 ,Reconciled
+Melissa Cash,,9/9/17,Found,Inflow: To be Budgeted,Inflow,To be Budgeted,Miscellaneous money,$0.00 ,$16.00 ,Cleared
+Jon Cash,,9/9/17,Transfer : Melissa Cash,,,,,$0.00 ,$20.00 ,Cleared
+Jon Cash,,9/9/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$68.00 ,Cleared
+Melissa Cash,,9/9/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$96.00 ,Cleared
+Jon Simple,,9/8/17,Taco Bell,Just for Fun: Dining Out,Just for Fun,Dining Out,,$12.68 ,$0.00 ,Cleared
+Melissa Cash,,9/8/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$6.00 ,$0.00 ,Cleared
+Jon Cash,,9/8/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$68.00 ,Cleared
+Melissa Cash,,9/8/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$101.00 ,Cleared
+Melissa Cash,,9/7/17,Walmart,Immediate Obligations: Rent/Mortgage,Immediate Obligations,Rent/Mortgage,,$400.00 ,$0.00 ,Cleared
+Jon Cash,,9/7/17,Walmart,Immediate Obligations: Rent/Mortgage,Immediate Obligations,Rent/Mortgage,Money order,$240.00 ,$0.00 ,Cleared
+Jon Simple,,9/7/17,Walmart,Immediate Obligations: Rent/Mortgage,Immediate Obligations,Rent/Mortgage,Money order,$160.70 ,$0.00 ,Cleared
+Jon Simple,,9/7/17,Treehouse,True Expenses: Subscriptions,True Expenses,Subscriptions,I am dumb and forgot to cancel,$25.00 ,$0.00 ,Cleared
+Jon Simple,,9/7/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$20.00 ,$0.00 ,Cleared
+Jon Cash,,9/7/17,La Fogata,Just for Fun: Dining Out,Just for Fun,Dining Out,,$20.00 ,$0.00 ,Cleared
+Melissa Cash,,9/7/17,La Fogata,Just for Fun: Dining Out,Just for Fun,Dining Out,,$15.00 ,$0.00 ,Cleared
+Jon Simple,,9/7/17,Birchbox,True Expenses: Cosmetics,True Expenses,Cosmetics,Happy anniversary!,$10.69 ,$0.00 ,Cleared
+Melissa Simple,,9/7/17,Transfer : Jon Simple,,,,,$10.68 ,$0.00 ,Reconciled
+Jon Simple,,9/7/17,Sony Playstation Store,Just for Fun: Gaming,Just for Fun,Gaming,,$10.68 ,$0.00 ,Cleared
+Melissa Simple,,9/7/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Jon Simple,,9/7/17,Transfer : Melissa Simple,,,,,$0.00 ,$10.68 ,Cleared
+Jon Cash,,9/7/17,Coin Counter,Inflow: To be Budgeted,Inflow,To be Budgeted,Coin counter __,$0.00 ,$57.00 ,Cleared
+Melissa Cash,,9/6/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload for that psl fam,$20.00 ,$0.00 ,Cleared
+Melissa Cash,,9/6/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$15.00 ,$0.00 ,Cleared
+Jon Simple,,9/6/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Vape refills,$10.68 ,$0.00 ,Cleared
+Melissa Cash,,9/6/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/6/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.00 ,$0.00 ,Cleared
+Jon Cash,,9/6/17,Wawa,True Expenses: Work Expenses,True Expenses,Work Expenses,Forgot 2L coke,$6.00 ,$0.00 ,Cleared
+Jon Simple,,9/6/17,Planet Fitness,Quality of Life Goals: Fitness,Quality of Life Goals,Fitness,,$0.27 ,$0.00 ,Cleared
+Melissa Cash,,9/6/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$28.00 ,Cleared
+Jon Cash,,9/6/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$47.00 ,Cleared
+Melissa Cash,,9/6/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips night,$0.00 ,$52.00 ,Cleared
+Melissa Simple,,9/5/17,Hubble Contacts,True Expenses: Medical,True Expenses,Medical,Recurring - Contact Lenses,$33.00 ,$0.00 ,Reconciled
+Jon Cash,,9/5/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$20.00 ,$0.00 ,Cleared
+Jon Cash,,9/5/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Vuse vibe,$16.00 ,$0.00 ,Cleared
+Jon Cash,,9/5/17,11-Jul,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/5/17,11-Jul,Immediate Obligations: Groceries,Immediate Obligations,Groceries,Split (2/2) Water,$2.00 ,$0.00 ,Cleared
+Melissa Cash,,9/5/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$43.00 ,Cleared
+Jon Cash,,9/5/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$50.00 ,Cleared
+Melissa Simple,,9/5/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$54.15 ,Reconciled
+Jon Simple,,9/5/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,Select Check,$0.00 ,$82.12 ,Cleared
+Melissa Cash,,9/4/17,Ulta,True Expenses: Cosmetics,True Expenses,Cosmetics,Too Faced Foundation in 'Nude',$42.00 ,$0.00 ,Cleared
+Melissa Cash,,9/4/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Jon Simple,,9/4/17,Wawa,Just for Fun: Dining Out,Just for Fun,Dining Out,Snacks,$3.28 ,$0.00 ,Cleared
+Jon Cash,,9/4/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$49.00 ,Cleared
+Melissa Cash,,9/3/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,9/3/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Melissa Simple,,9/3/17,Lost,Inflow: To be Budgeted,Inflow,To be Budgeted,,$9.17 ,$0.00 ,Reconciled
+Jon Cash,,9/3/17,Wawa,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Swishers,$2.00 ,$0.00 ,Cleared
+Jon Simple,,9/3/17,Transfer : Shared Simple,,,,,$1.00 ,$0.00 ,Cleared
+Jon Cash,,9/3/17,Wawa,Immediate Obligations: Groceries,Immediate Obligations,Groceries,Water,$1.00 ,$0.00 ,Cleared
+Jon Simple,,9/3/17,Transfer : Melissa Simple,,,,,$1.00 ,$0.00 ,Cleared
+Shared Simple,,9/3/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$0.00 ,Cleared
+Melissa Simple,,9/3/17,Transfer : Jon Simple,,,,,$0.00 ,$1.00 ,Reconciled
+Shared Simple,,9/3/17,Transfer : Jon Simple,,,,,$0.00 ,$1.00 ,Cleared
+Melissa Cash,Red,9/3/17,Found,Inflow: To be Budgeted,Inflow,To be Budgeted,Found money,$0.00 ,$21.00 ,Cleared
+Jon Cash,,9/3/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$59.00 ,Cleared
+Melissa Cash,,9/3/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tipssss,$0.00 ,$105.00 ,Cleared
+Jon Cash,,9/2/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$20.00 ,$0.00 ,Cleared
+Melissa Simple,,9/2/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$9.17 ,$0.00 ,Reconciled
+Melissa Simple,,9/2/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$6.70 ,$0.00 ,Reconciled
+Jon Cash,,9/2/17,Popeye's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/2/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.00 ,$0.00 ,Cleared
+Jon Cash,,9/2/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$78.00 ,Cleared
+Jon Cash,,9/1/17,Person,Just for Fun: Fun Money,Just for Fun,Fun Money,Weed,$45.00 ,$0.00 ,Cleared
+Jon Cash,,9/1/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Drinks,$35.00 ,$0.00 ,Cleared
+Jon Cash,Red,9/1/17,Lost,True Expenses: Stuff I Forgot to Budget For,True Expenses,Stuff I Forgot to Budget For,Spent $19 more than I can remember and don't know how.,$19.00 ,$0.00 ,Cleared
+Jon Cash,,9/1/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Cover charge for both of us,$10.00 ,$0.00 ,Cleared
+Jon Cash,,9/1/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,Before work fuel,$9.00 ,$0.00 ,Cleared
+Melissa Simple,,9/1/17,Starbucks,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$36.41 ,Reconciled
+Melissa Cash,,9/1/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$84.00 ,Cleared
+Jon Cash,,9/1/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$103.00 ,Cleared
+Jon Cash,,8/31/17,Liquor Store,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$22.00 ,$0.00 ,Cleared
+Melissa Cash,,8/31/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload ,$15.00 ,$0.00 ,Cleared
+Jon Cash,,8/31/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,Gas,$15.00 ,$0.00 ,Cleared
+Jon Cash,Red,8/31/17,Lost,True Expenses: Stuff I Forgot to Budget For,True Expenses,Stuff I Forgot to Budget For,Missing,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/31/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Cleared
+Melissa Cash,,8/31/17,11-Jul,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Bogues,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/31/17,Sonic,Just for Fun: Dining Out,Just for Fun,Dining Out,,$7.00 ,$0.00 ,Cleared
+Melissa Cash,,8/31/17,Tolls,Immediate Obligations: Transportation,Immediate Obligations,Transportation,Betsy Ross bridge toll to see taupe tiggy,$5.00 ,$0.00 ,Cleared
+Melissa Cash,,8/31/17,Tolls,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$4.00 ,$0.00 ,Cleared
+Melissa Cash,Red,8/31/17,Found,Inflow: To be Budgeted,Inflow,To be Budgeted,Found money,$0.00 ,$31.00 ,Cleared
+Jon Simple,,8/30/17,Comcast Cable,Immediate Obligations: Internet,Immediate Obligations,Internet,,$88.25 ,$0.00 ,Cleared
+Melissa Cash,Yellow,8/30/17,Vera Bradley,True Expenses: Gifts,True Expenses,Gifts,Moms birthday gift,$52.00 ,$0.00 ,Cleared
+Jon Cash,,8/30/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (1/2) ,$2.00 ,$0.00 ,Cleared
+Jon Cash,,8/30/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,Split (2/2) ,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,8/30/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Reload on 8/29,$10.00 ,$0.00 ,Reconciled
+Jon Cash,,8/30/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$86.00 ,Cleared
+Jon Cash,,8/29/17,Walmart,True Expenses: Clothing,True Expenses,Clothing,Softener,$19.00 ,$0.00 ,Cleared
+Melissa Cash,,8/29/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Bogues ____,$10.00 ,$0.00 ,Cleared
+Melissa Cash,,8/29/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Bogues ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/29/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$3.00 ,$0.00 ,Cleared
+Melissa Cash,,8/29/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$67.00 ,Cleared
+Jon Cash,,8/29/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$68.00 ,Cleared
+Melissa Cash,,8/28/17,Select Pizza Grill,Just for Fun: Dining Out,Just for Fun,Dining Out,Chicken Parm Dinner,$13.00 ,$0.00 ,Cleared
+Melissa Cash,,8/28/17,Petsmart,True Expenses: Pet Expenses,True Expenses,Pet Expenses,,$13.00 ,$0.00 ,Cleared
+Melissa Cash,,8/28/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Melissa Cash,,8/28/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Before work,$7.00 ,$0.00 ,Cleared
+Jon Simple,,8/28/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$25.83 ,Cleared
+Jon Simple,,8/28/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$62.71 ,Cleared
+Melissa Cash,,8/28/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$99.00 ,Cleared
+Jon Cash,,8/27/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Da fighttttt,$62.00 ,$0.00 ,Cleared
+Jon Cash,,8/27/17,Shoprite,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$50.00 ,$0.00 ,Cleared
+Melissa Cash,,8/27/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Cover charge,$20.00 ,$0.00 ,Cleared
+Jon Cash,,8/27/17,Shoprite,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Moscato,$11.00 ,$0.00 ,Cleared
+Jon Simple,,8/27/17,Transfer : Melissa Simple,,,,,$4.00 ,$0.00 ,Cleared
+Melissa Simple,,8/27/17,Transfer : Jon Simple,,,,,$0.00 ,$4.00 ,Reconciled
+Jon Cash,,8/27/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$19.00 ,Cleared
+Jon Cash,,8/26/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$30.00 ,$0.00 ,Cleared
+Melissa Simple,,8/26/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$20.00 ,$0.00 ,Reconciled
+Melissa Simple,,8/26/17,Walmart,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$15.13 ,$0.00 ,Reconciled
+Jon Cash,,8/26/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/26/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$5.00 ,$0.00 ,Cleared
+Melissa Simple,,8/26/17,Shoprite,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$14.27 ,$0.00 ,Reconciled
+Jon Cash,,8/26/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$9.00 ,$0.00 ,Cleared
+Melissa Simple,,8/26/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$1.66 ,$0.00 ,Reconciled
+Melissa Cash,,8/26/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips woohoo,$0.00 ,$59.00 ,Cleared
+Jon Cash,,8/26/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$88.00 ,Cleared
+Melissa Cash,Blue,8/26/17,Manuel Teixeira,Inflow: To be Budgeted,Inflow,To be Budgeted,Daddy gift!,$0.00 ,$100.00 ,Cleared
+Jon Cash,,8/25/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Shiner - Peach,$47.00 ,$0.00 ,Cleared
+Jon Cash,,8/25/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$15.00 ,$0.00 ,Cleared
+Melissa Simple,,8/25/17,Wawa,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$15.00 ,$0.00 ,Reconciled
+Melissa Cash,,8/25/17,Transfer : Jon Cash,,,,,$12.00 ,$0.00 ,Cleared
+Melissa Simple,,8/25/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Jon Cash,,8/25/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,8/25/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$7.00 ,$0.00 ,Reconciled
+Melissa Simple,,8/25/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$4.91 ,$0.00 ,Reconciled
+Jon Cash,,8/25/17,Transfer : Melissa Cash,,,,,$0.00 ,$12.00 ,Cleared
+Melissa Cash,,8/25/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,(First) tips!,$0.00 ,$79.00 ,Cleared
+Jon Cash,,8/25/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$87.00 ,Cleared
+Melissa Simple,,8/24/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$9.17 ,$0.00 ,Reconciled
+Melissa Simple,,8/24/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$4.91 ,$0.00 ,Reconciled
+Jon Simple,,8/23/17,Dunkin,Just for Fun: Dining Out,Just for Fun,Dining Out,,$2.66 ,$0.00 ,Cleared
+Jon Cash,,8/23/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$64.00 ,Cleared
+Jon Simple,,8/23/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$118.35 ,Cleared
+Melissa Simple,,8/22/17,Walmart,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$64.11 ,$0.00 ,Reconciled
+Jon Cash,,8/22/17,Lost,Inflow: To be Budgeted,Inflow,To be Budgeted,,$13.00 ,$0.00 ,Cleared
+Melissa Simple,,8/22/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Melissa Simple,,8/22/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$8.96 ,$0.00 ,Reconciled
+Jon Cash,,8/21/17,Petsmart,True Expenses: Pet Expenses,True Expenses,Pet Expenses,,$29.00 ,$0.00 ,Cleared
+Melissa Cash,,8/21/17,Clam Bar,Just for Fun: Dining Out,Just for Fun,Dining Out,Eclipse sandwiches in OC!,$25.00 ,$0.00 ,Cleared
+Melissa Simple,,8/21/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$10.00 ,$0.00 ,Reconciled
+Melissa Simple,,8/21/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$2.70 ,$0.00 ,Reconciled
+Melissa Simple,,8/20/17,Sprint Wireless,Immediate Obligations: Cell Phone,Immediate Obligations,Cell Phone,,$164.47 ,$0.00 ,Reconciled
+Jon Cash,,8/20/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$32.00 ,$0.00 ,Cleared
+Jon Cash,,8/20/17,Dunkin,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/20/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,,$5.00 ,$0.00 ,Cleared
+Jon Cash,,8/20/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$24.00 ,Cleared
+Jon Cash,,8/19/17,Rite Aid,True Expenses: Medical,True Expenses,Medical,"Ecig, cold meds, water",$29.00 ,$0.00 ,Cleared
+Melissa Simple,,8/19/17,Walmart,Immediate Obligations: Groceries,Immediate Obligations,Groceries,,$13.36 ,$0.00 ,Reconciled
+Jon Cash,,8/19/17,Dunkin,Just for Fun: Dining Out,Just for Fun,Dining Out,,$6.00 ,$0.00 ,Cleared
+Melissa Simple,,8/19/17,Subway Restaurant,Just for Fun: Dining Out,Just for Fun,Dining Out,,$5.33 ,$0.00 ,Reconciled
+Jon Cash,,8/19/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$68.00 ,Cleared
+Melissa Simple,,8/18/17,Thrift Shop,Just for Fun: Fun Money,Just for Fun,Fun Money,Thrift,$25.68 ,$0.00 ,Reconciled
+Jon Cash,,8/18/17,Dominos,Just for Fun: Dining Out,Just for Fun,Dining Out,,$23.00 ,$0.00 ,Cleared
+Jon Cash,,8/18/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Cigarettes ,$10.00 ,$0.00 ,Cleared
+Melissa Simple,,8/18/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Jon Cash,,8/18/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$8.00 ,$0.00 ,Cleared
+Melissa Simple,,8/18/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$6.71 ,$0.00 ,Reconciled
+Melissa Simple,,8/18/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$5.55 ,$0.00 ,Reconciled
+Melissa Simple,,8/18/17,Starbucks,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$453.47 ,Reconciled
+Jon Cash,,8/17/17,Canal's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,12 pack of Magic Hat #9,$23.00 ,$0.00 ,Cleared
+Jon Cash,,8/17/17,Panchero's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$20.00 ,$0.00 ,Cleared
+Jon Cash,,8/17/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,Breakfast,$9.00 ,$0.00 ,Cleared
+Jon Cash,,8/17/17,Bar,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Merry Monks (holy shit),$8.00 ,$0.00 ,Cleared
+Jon Cash,,8/17/17,Wawa,Immediate Obligations: Groceries,Immediate Obligations,Groceries,Water gallon,$2.00 ,$0.00 ,Cleared
+Melissa Cash,,8/17/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$200.00 ,Cleared
+Jon Simple,,8/16/17,Transfer : Melissa Simple,,,,,$15.00 ,$0.00 ,Cleared
+Melissa Simple,,8/16/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$12.14 ,$0.00 ,Reconciled
+Melissa Simple,,8/16/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Jon Cash,,8/16/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Beer,$8.00 ,$0.00 ,Cleared
+Jon Cash,,8/16/17,Person,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Weed,$5.00 ,$0.00 ,Cleared
+Jon Cash,,8/16/17,Pep Boys,True Expenses: Auto Expenses,True Expenses,Auto Expenses,Fuses,$5.00 ,$0.00 ,Cleared
+Melissa Simple,,8/16/17,Parking Meter,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$1.75 ,$0.00 ,Reconciled
+Melissa Simple,,8/16/17,Transfer : Jon Simple,,,,,$0.00 ,$15.00 ,Reconciled
+Jon Cash,,8/16/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$70.00 ,Cleared
+Jon Cash,,8/15/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Cigarettes,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/15/17,Dunkin,Just for Fun: Dining Out,Just for Fun,Dining Out,Coffee and food,$8.00 ,$0.00 ,Cleared
+Jon Cash,,8/15/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$71.00 ,Cleared
+Jon Cash,,8/14/17,Pep Boys,True Expenses: Auto Expenses,True Expenses,Auto Expenses,Windshield wipers,$18.00 ,$0.00 ,Cleared
+Jon Cash,,8/14/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Drinks with melissa and alyssa,$17.00 ,$0.00 ,Cleared
+Jon Cash,,8/14/17,Food Court,Just for Fun: Dining Out,Just for Fun,Dining Out,Smoothie and Juice at outlets,$15.00 ,$0.00 ,Cleared
+Jon Cash,,8/14/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/14/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$4.00 ,$0.00 ,Cleared
+Jon Cash,,8/14/17,Laundry,True Expenses: Clothing,True Expenses,Clothing,$10 on the card,$10.00 ,$0.00 ,Cleared
+Jon Simple,,8/14/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$131.88 ,Cleared
+Jon Cash,,8/13/17,Hanes Outlet,True Expenses: Gifts,True Expenses,Gifts,Melissa underwear and bra,$35.00 ,$0.00 ,Cleared
+Jon Simple,,8/13/17,Amazon Web Services,True Expenses: Subscriptions,True Expenses,Subscriptions,,$19.44 ,$0.00 ,Cleared
+Melissa Simple,,8/13/17,Transfer : Melissa Cash,,,,,$10.00 ,$0.00 ,Reconciled
+Melissa Simple,,8/13/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Melissa Cash,,8/13/17,Transfer : Melissa Simple,,,,,$0.00 ,$10.00 ,Cleared
+Jon Cash,,8/12/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,11.793 gallons,$29.00 ,$0.00 ,Cleared
+Jon Cash,,8/12/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Split (1/2) ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/12/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Split (2/2) ,$3.00 ,$0.00 ,Cleared
+Jon Cash,,8/12/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$36.00 ,Cleared
+Melissa Simple,,8/11/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$10.00 ,$0.00 ,Reconciled
+Jon Cash,,8/11/17,Rite Aid,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Cigarettes ,$10.00 ,$0.00 ,Cleared
+Jon Cash,,8/11/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$78.00 ,Cleared
+Jon Cash,,8/10/17,Amma's Indian,Just for Fun: Dining Out,Just for Fun,Dining Out,Melissa birthday dinner,$30.00 ,$0.00 ,Cleared
+Melissa Simple,,8/10/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,,$9.17 ,$0.00 ,Reconciled
+Jon Cash,,8/9/17,Ott's,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$39.00 ,$0.00 ,Cleared
+Melissa Simple,,8/9/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,,$7.70 ,$0.00 ,Reconciled
+Jon Cash,,8/9/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$34.00 ,Cleared
+Melissa Simple,,8/8/17,Hubble Contacts,True Expenses: Medical,True Expenses,Medical,Recurring subscription to hubble,$33.00 ,$0.00 ,Reconciled
+Jon Cash,,8/8/17,Gas Station,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$26.00 ,$0.00 ,Cleared
+Melissa Simple,,8/8/17,Lyft,Immediate Obligations: Transportation,Immediate Obligations,Transportation,,$15.86 ,$0.00 ,Reconciled
+Jon Cash,,8/8/17,Wawa,Just for Fun: Fun Money,Just for Fun,Fun Money,Cigs and Red Bull,$15.00 ,$0.00 ,Cleared
+Jon Cash,,8/8/17,Person,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Weed,$5.00 ,$0.00 ,Cleared
+Jon Cash,,8/8/17,Starbucks,Just for Fun: Dining Out,Just for Fun,Dining Out,Grande Iced cascara,$4.00 ,$0.00 ,Cleared
+Melissa Republic,,8/8/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$2.15 ,Cleared
+Jon Republic,,8/8/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$2.70 ,Cleared
+Jon Cash,,8/8/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$46.00 ,Cleared
+Melissa Simple,,8/8/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$114.07 ,Reconciled
+Jon Cash,,8/7/17,Pep Boys,True Expenses: Auto Expenses,True Expenses,Auto Expenses,Two front tires,$139.00 ,$0.00 ,Cleared
+Jon Cash,,8/7/17,McDonald's,Just for Fun: Dining Out,Just for Fun,Dining Out,,$6.00 ,$0.00 ,Cleared
+Jon Simple,Green,8/7/17,Manual Balance Adjustment,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$16.32 ,Cleared
+Jon Simple,Green,8/7/17,Check Deposit,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$23.09 ,Cleared
+Jon Cash,,8/7/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,Tips,$0.00 ,$50.00 ,Cleared
+Jon Cash,,8/6/17,Person,Just for Fun: Intoxicants,Just for Fun,Intoxicants,Weed,$40.00 ,$0.00 ,Cleared
+Jon Cash,,8/6/17,Liquor Store,Just for Fun: Intoxicants,Just for Fun,Intoxicants,,$13.00 ,$0.00 ,Cleared
+Jon Cash,,8/6/17,Wawa,Just for Fun: Cigarettes,Just for Fun,Cigarettes,Cigarettes ,$10.00 ,$0.00 ,Cleared
+Jon Simple,,8/6/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$0.00 ,Cleared
+Jon Cash,,8/6/17,Tips,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$67.00 ,Cleared
+Jon Cash,,8/6/17,Starting Balance,Inflow: To be Budgeted,Inflow,To be Budgeted,,$0.00 ,$276.00 ,Cleared

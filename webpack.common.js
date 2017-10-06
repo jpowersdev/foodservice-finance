@@ -9,6 +9,7 @@ module.exports = {
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname, "dist"),
+    publicPath: '/'
   },
 
   module: {
@@ -20,7 +21,7 @@ module.exports = {
             loader: 'babel-loader'
           }
         ],
-        exclude: /node_modules/
+        exclude: /(node_modules|db.js)/
       },
       {
         test: /\.jsx$/,
@@ -30,6 +31,13 @@ module.exports = {
           }
         ],
         exclude: /node_modules/
+      },
+      {
+        test: /\.css$/,
+        use: [
+          'style-loader',
+          'css-loader'
+        ]
       },
       {
         test: /\.(png|svg|jpg|gif|ico)$/,
@@ -47,7 +55,6 @@ module.exports = {
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
       title: 'Foodservice Finances'
-      // favicon: 'public/favicon.ico'
     }),
     new webpack.DefinePlugin({
       'process.env': {
