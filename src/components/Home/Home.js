@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom'
 import FontIcon from 'material-ui/FontIcon';
 import {BottomNavigation, BottomNavigationItem} from 'material-ui/BottomNavigation';
 
-import Register from '../Register'
-import Navigation from '../Navigation'
+import Register from '../Register/Register'
+import Navigation from '../Navigation/Navigation'
 
 const styles = {
   container: {
@@ -75,6 +75,14 @@ const recentsIcon = <FontIcon className="material-icons">restore</FontIcon>;
 const favoritesIcon = <FontIcon className="material-icons">favorite</FontIcon>;
 const nearbyIcon = <IconLocationOn />;
 
+// Today
+// This Week
+// Just the Weekdays
+// Just the Weekends
+// This Month
+// Last Three Months
+// This Year
+// All Time
 class BottomNav extends Component {
 
   constructor(props) {

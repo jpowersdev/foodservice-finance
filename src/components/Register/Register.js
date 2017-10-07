@@ -338,13 +338,21 @@ class Register extends React.Component {
         width: 'auto',
         overflow: 'visible'
       },
+      index: {
+        width: '5px',
+        overflow: 'visible',
+        textAlign: 'left',
+        paddingRight: '0'
+      },
       account: {
         textAlign: 'left',
-        width: '100px'
+        width: '80px',
+        overflow: 'visible'
       },
       flag: {
         textAlign: 'center',
-        width: '40px'
+        width: '40px',
+        overflow: 'visible'
       },
       date: {
         textAlign: 'center',
@@ -392,8 +400,9 @@ class Register extends React.Component {
 
       const register = this.state.register
         .slice(0,20)
-        .map((props) =>
-          <TableRow id={props._id} style={{fontSize: '14px'}}>
+        .map((props, index) =>
+          <TableRow id={props._id} key={props._id} style={{fontSize: '14px'}}>
+            <TableRowColumn style={styles.index}>{index + 1}</TableRowColumn>
             <TableRowColumn style={styles.account}>{props.Account}</TableRowColumn>
             <TableRowColumn style={styles.flag}>{props.Flag}</TableRowColumn>
             <TableRowColumn style={styles.date}>{props.Date}</TableRowColumn>
@@ -414,48 +423,56 @@ class Register extends React.Component {
       return (
         <div id="container" style={styles.container}>
           <div id='register' style={{ height: '75vh', overflow: 'auto'}}>
-            <Table fixedHeader='true'
-                   showRowHover='true'
-                   selectable='true'
-                   multiSelectable='true'
-                   deselectOnClickaway='true'
-                   height='100vh'
-                   bodyStyle={styles.body}>
-              <TableHeader>
+            <Table
+              fixedHeader={true}
+              fixedFooter={false}
+              selectable={false}
+              multiSelectable={false}
+              height='100vh'
+              bodyStyle={styles.body}>
+              <TableHeader
+                displaySelectAll={false}
+                adjustForCheckbox={false}
+                enableSelectAll={false}>
                 <TableRow style={{fontWeight: 'bold', textAlign: 'center'}}>
-                  <TableRowColumn style={styles.account}>
+                  <TableHeaderColumn style={styles.index}></TableHeaderColumn>
+                  <TableHeaderColumn style={styles.account}>
                     <FlatButton label="Account" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.flag}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.flag}>
                     <FlatButton label="Flag" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.date}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.date}>
                     <FlatButton label="Date" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.payee}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.payee}>
                     <FlatButton label="Payee" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.group}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.group}>
                     <FlatButton label="Group" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.category}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.category}>
                     <FlatButton label="Category" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.memo}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.memo}>
                     <FlatButton label="Memo" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.outflow}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.outflow}>
                     <FlatButton label="Outflow" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.inflow}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.inflow}>
                     <FlatButton label="Inflow" onClick={this.sortBy}/>
-                  </TableRowColumn>
-                  <TableRowColumn style={styles.cleared}>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn style={styles.cleared}>
                     <FlatButton label="Cleared" onClick={this.sortBy}/>
-                  </TableRowColumn>
+                  </TableHeaderColumn>
                 </TableRow>
               </TableHeader>
-              <TableBody>
+              <TableBody
+                displayRowCheckbox={false}
+                deselectOnClickaway={true}
+                showRowHover={true}
+                stripedRows={false}>
                 {register}
               </TableBody>
             </Table>

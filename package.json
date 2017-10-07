@@ -10,7 +10,9 @@
     "file": "node filewatch.js",
     "db": "mongod --dbpath data/db",
     "serve": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "singlePath": "rc-autocomplete --src 'node_modules/react-toolbox/components/**/*.js'",
+    "generate": "rc-autocomplete"
   },
   "repository": {
     "type": "git",
@@ -53,6 +55,7 @@
     "cors": "^2.8.4",
     "html-webpack-plugin": "^2.30.1",
     "react": "^15.6.1",
+    "react-autocomplete-cli": "0.0.3",
     "react-dom": "^15.6.1",
     "webpack": "^3.2.0",
     "webpack-dev-server": "^2.9.1",
